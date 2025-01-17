@@ -5,7 +5,7 @@
   "dependencies": {
     "@reduxjs/toolkit": "1.9.7",
     "@tanstack/react-table": "8.16.0",
-    "@tanstack/react-virtual": "3.10.8",
+    "@tanstack/react-virtual": "3.11.2",
     "@vkontakte/icons": "2.131.0",
     "@vkontakte/vkui": "6.5.0",
     "@vkontakte/vkui-tokens": "4.53.3",
